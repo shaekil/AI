@@ -6,17 +6,6 @@ Dataset Link: https://www.kaggle.com/corrieaar/apartment-rental-offers-in-german
 
 Project Mentor : Prof. Dr. Beate Rhein
 
-Project Team Members : 
-
-1. Md Nazmul Hasan
-
-2. Md Shakil Ahammad 
-
-3. Md Nuruzzaman 
-
-4. Sahidul Islam
-
-
 The dataset contains a collection of immoscout24 data for rents in Germany.The data was scraped from Immoscout24, the biggest real estate platform in Germany. Immoscout24 has listings for both rental properties and homes for sale, however, the data only contains offers for rental properties.ImmobilienScout24* (or short: ImmoScout), is one of the largest real estate platform in Germany
 
 At a given time, all available offers were scraped from the site and saved. This process was repeated three times, so the data set contains offers from the dates 2018-09-22, 2019-05-10 and 2019-10-08.
